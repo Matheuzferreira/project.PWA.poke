@@ -1,0 +1,21 @@
+{
+  "name": "Pokémon Próximo",
+  "short_name": "Pokémon",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#ff1c1c",
+  "description": "Descubra um Pokémon próximo de você com este app divertido!",
+  "icons": [
+    {
+      "src": "icons/pokeball-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/pokeball-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
