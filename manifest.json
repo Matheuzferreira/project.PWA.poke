@@ -1,6 +1,6 @@
 {
   "name": "PWA Pokémon",
-  "short_name": "Pokémon",
+  "short_name": "PokéRada",
   "description": "PWA que mostra Pokémon aleatórios próximos de você usando a PokeAPI e geolocalização!",
   "dir": "ltr",
   "display": "standalone",
