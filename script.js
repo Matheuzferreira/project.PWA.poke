@@ -33,4 +33,5 @@ if ('serviceWorker' in navigator) {
 }
 
 
-document.getElementById('btnLocalizacao').addEventListener('click', mostrarLocalizacao);
+document.getElementById('btnPokemon').addEventListener('click', mostrarLocalizacao);
+
