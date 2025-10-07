@@ -5,8 +5,8 @@ const FILES_TO_CACHE = [
   "/style.css",
   "/script.js",
   "/manifest.json",
-  "/icons/pokeball-192.png",
-  "/icons/pokeball-512.png"
+  "/192.png",
+  "/512.png"
 ];
 
 // Instala o service worker e adiciona arquivos no cache
